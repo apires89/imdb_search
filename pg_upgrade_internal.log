@@ -1,0 +1,21 @@
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Mar 27 19:46:07 2018
+-----------------------------------------------------------------
+
+check for "/usr/local/Cellar/postgresql@9.6/9.6.5/bin" failed: No such file or directory
+
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Mar 27 19:46:40 2018
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Mar 27 19:46:46 2018
+-----------------------------------------------------------------
+
+check for "/usr/local/Cellar/postgresql@9.6/9.6.5/bin" failed: No such file or directory
+
